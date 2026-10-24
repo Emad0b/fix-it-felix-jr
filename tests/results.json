@@ -1,0 +1,18 @@
+{
+  "runtime": "scratch-vm 5.0.300",
+  "node": "v24.22.1",
+  "checks": [
+    "Archive includes every costume and sound with matching checksum",
+    "Green flag starts a complete 12-window level",
+    "Held arrow keys move within all grid boundaries",
+    "Space repairs a window and awards points only once",
+    "Ralph can break a repaired window without duplicating damage",
+    "Finishing all windows advances the level and adds time",
+    "A falling brick costs one life and enables temporary protection",
+    "Zero lives ends the game and blocks further repairs",
+    "Green flag resets score, lives, windows and game-over banner",
+    "Countdown reaching zero ends the game"
+  ],
+  "passed": 10,
+  "scope": "Actual .sb3 scripts executed headlessly. No renderer or audio output; visual/audio QA is separate."
+}
