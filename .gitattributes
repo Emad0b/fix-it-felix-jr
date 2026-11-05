@@ -1,0 +1,12 @@
+*.cs text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.asset text eol=lf
+*.meta text eol=lf
+*.unity text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+Legacy/** linguist-vendored
+UnityGame/**/*.asset whitespace=-blank-at-eol linguist-generated
+UnityGame/**/*.meta whitespace=-blank-at-eol linguist-generated
+UnityGame/**/*.unity whitespace=-blank-at-eol

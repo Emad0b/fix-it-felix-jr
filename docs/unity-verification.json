@@ -1,0 +1,9 @@
+{
+  "engine": "Unity 6000.4.7f1",
+  "checksPassed": 15,
+  "result": "pass",
+  "windowsBuild": "succeeded",
+  "runtimeCameraSprites": 279,
+  "runtimeCapture": "explicit Unity camera render target; excludes IMGUI HUD",
+  "manualPlaythrough": "not performed"
+}

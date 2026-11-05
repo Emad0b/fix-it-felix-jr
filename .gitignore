@@ -1,3 +1,13 @@
 node_modules/
 __pycache__/
 .pytest_cache/
+UnityGame/[Ll]ibrary/
+UnityGame/[Tt]emp/
+UnityGame/[Oo]bj/
+UnityGame/[Ll]ogs/
+UnityGame/[Uu]ser[Ss]ettings/
+Builds/
+*.csproj
+*.sln
+.vs/
+*.log
