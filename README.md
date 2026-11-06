@@ -1,5 +1,7 @@
 # Fix-It Felix Jr. — Unity 2D
 
+This is a 2D arcade fan game where you race the clock to repair windows and dodge falling bricks. Play the Windows build or open the Unity project to see how movement, hazards, and timed levels work.
+
 A Unity 6 / C# arcade fan project with original procedural pixel sprites and synthesized sounds. This is the current game implementation. The earlier Scratch edition is preserved under [Legacy/Scratch](Legacy/Scratch/README.md).
 
 ![Unity 2D camera view](docs/unity-gameplay.png)
